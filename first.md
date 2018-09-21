@@ -39,3 +39,8 @@ git ->setting ->远端
 
     切换回主分支 将分支代码合并到主分支上
     git checkout master
+
+
+## 代码合并
+    git pull //更新自己的主分支
+    git merge newBranch //将自己分支上的代码合并到主干上
