@@ -18,3 +18,8 @@ git ->setting ->远端
     git push --all(推送所有分支)
     git push -u origin master (本地的master分支推送到origin主机的master分支)
 
+
+### 版本功能
+
+    git log  //看所有版本
+    git reset --hard 7ebbee1fa4a2a681fd336b34b01170f2490b732f  //切换版本  (切换版本之前千万要先提交)
