@@ -30,3 +30,7 @@ git ->setting ->远端
 
     git branch newBranch    //创建分支
     git checkout newBranch  //切换分支
+
+
+## 当前为我自己的开发代码 修改自己分支的东西 
+    自己本地分支第一次提交
