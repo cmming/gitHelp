@@ -41,6 +41,12 @@ git ->setting ->远端
     git checkout master
 
 
+````````````````
+
+本地修改测试
+
+```````````
+
 ## 代码合并
     git pull //更新自己的主分支
     git merge newBranch //将自己分支上的代码合并到主干上
