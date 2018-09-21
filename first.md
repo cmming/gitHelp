@@ -36,3 +36,6 @@ git ->setting ->远端
     自己本地分支第一次提交
 
     自己代码第二次提交
+
+    切换回主分支 将分支代码合并到主分支上
+    git checkout master
