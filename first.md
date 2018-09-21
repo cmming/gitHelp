@@ -23,3 +23,10 @@ git ->setting ->远端
 
     git log  //看所有版本
     git reset --hard 7ebbee1fa4a2a681fd336b34b01170f2490b732f  //切换版本  (切换版本之前千万要先提交)
+
+### 分支学习
+
+    git branch  //查看所有版本
+
+    git branch newBranch    //创建分支
+    git checkout newBranch  //切换分支
